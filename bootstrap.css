@@ -174,7 +174,7 @@ img {
 }
 
 .bottomcharts .bottom-two {
-  width: 30%; 
+  width: 100%; 
   align-self: center;
   justify-content: flex-start;
   padding-left:10%; 
